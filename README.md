@@ -8,3 +8,13 @@
 **skanda**
 *skanda*
 ***skanda***
+
+1. fruits
+    1. mangoes
+    2. oranges
+    3. apples
+    
+* vegetables
+    * tomatoes    
+    * potatoes
+    * onions
