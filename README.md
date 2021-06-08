@@ -25,3 +25,9 @@
 name  |  number
 ------|--------
 skanda|1234567890
+
+```python
+def python():
+   print("hai")
+```   
+   
